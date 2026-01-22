@@ -1,5 +1,5 @@
 ---
-title: "Entity Attestation Token (EAT) Profile for AI Integrity in Network Functions"
+title: "Entity Attestation Token (EAT) Profile for Autonomous AI Agents"
 
 category: Informational
 
