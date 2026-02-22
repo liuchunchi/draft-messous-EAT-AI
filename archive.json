@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-02-19T02:31:30.617439+00:00",
+  "timestamp": "2026-02-22T02:32:16.294793+00:00",
   "repo": "liuchunchi/draft-messous-EAT-AI",
   "labels": [
     {
@@ -50,5 +50,32 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOQlaegs7E1CiQ",
+      "title": "Update draft-messous-eat-ai.md",
+      "url": "https://github.com/liuchunchi/draft-messous-EAT-AI/pull/1",
+      "state": "OPEN",
+      "author": "mmessous",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-02-19T09:53:36Z",
+      "updatedAt": "2026-02-19T09:53:37Z",
+      "baseRepository": "liuchunchi/draft-messous-EAT-AI",
+      "baseRefName": "main",
+      "baseRefOid": "ce7a06461735deee2e9d462404d79cf31533b455",
+      "headRepository": "mmessous/draft-messous-EAT-AI",
+      "headRefName": "patch-3",
+      "headRefOid": "eab331aa92082b6d29d3b1cdd9d32d3adc0a18a8",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
